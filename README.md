@@ -1,9 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-##Live
+## Live
 You can find my app deployed on Vercel: 
 
+![sheralogo](https://static.wikia.nocookie.net/international-entertainment-project/images/2/2e/She-Ra_and_the_Princesses_of_Power_-_logo_%28English%29.png/revision/latest?cb=20200912005246)
+
 ![shera2](https://user-images.githubusercontent.com/67484044/140785019-ae1c116a-1e96-4994-a669-be29e0b661ee.png)
+
+Created with: ![nextlogo](https://cdn.auth0.com/blog/logos/nextjs-logo.png)
 
 ## Getting Started
 
